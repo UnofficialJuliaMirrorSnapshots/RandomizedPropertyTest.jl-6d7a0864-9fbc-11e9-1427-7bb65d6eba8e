@@ -1,0 +1,12 @@
+RandomizedPropertyTest.jl Changelog
+===================================
+
+master
+------
+
+- Fixed a Julia 1.0 compatibility issue of tests.
+
+Version 0.1.0
+-------------
+
+- This is the initial version.
